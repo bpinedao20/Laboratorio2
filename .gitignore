@@ -1,0 +1,12 @@
+﻿# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Angular/Node
+site2/node_modules/
+site2/dist/
+npm-debug.log*
+yarn-error.log*
